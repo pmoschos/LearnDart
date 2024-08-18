@@ -38,7 +38,7 @@ Object-Oriented Programming (OOP) is a programming paradigm based on the concept
 
 In Dart, classes are defined using the `class` keyword, and objects are created as instances of these classes. A class defines the structure and behavior (via properties and methods) that the objects will possess.
 
-\`\`\`dart
+```dart
 class Car {
   String model;
   int year;
@@ -54,7 +54,7 @@ void main() {
   Car myCar = Car('Tesla Model S', 2022);
   myCar.displayInfo();
 }
-\`\`\`
+```
 
 This simple example defines a `Car` class with two properties (`model` and `year`) and a method (`displayInfo`). The `myCar` object is an instance of the `Car` class, and it can invoke the `displayInfo` method.
 
@@ -64,7 +64,7 @@ This simple example defines a `Car` class with two properties (`model` and `year
 
 **Encapsulation** is the mechanism of restricting direct access to some of an object’s components and protecting the integrity of the data. In Dart, encapsulation is achieved by using access modifiers such as the underscore (`_`) to make class members private.
 
-\`\`\`dart
+```dart
 class BankAccount {
   String _accountNumber;
   double _balance;
@@ -77,7 +77,7 @@ class BankAccount {
 
   double get balance => _balance; // Public getter for balance
 }
-\`\`\`
+```
 
 Here, the `_accountNumber` and `_balance` fields are private, meaning they can only be accessed within the class. However, the `balance` can be retrieved using a public getter method, ensuring controlled access.
 
@@ -89,7 +89,7 @@ Here, the `_accountNumber` and `_balance` fields are private, meaning they can o
 
 In Dart, abstraction can be achieved through **abstract classes** or **interfaces**. An abstract class provides a base class with method declarations that must be implemented by subclasses.
 
-\`\`\`dart
+```dart
 abstract class Shape {
   void draw();  // Abstract method
 
@@ -115,7 +115,7 @@ void main() {
   shape.draw();
   print('Area: \${shape.area()}');
 }
-\`\`\`
+```
 
 In the example above, the `Shape` class is abstract and defines methods without implementation. The `Circle` class extends `Shape` and provides concrete implementations for the abstract methods.
 
@@ -125,7 +125,7 @@ In the example above, the `Shape` class is abstract and defines methods without 
 
 **Inheritance** allows a class to inherit properties and methods from another class, promoting reusability and reducing code duplication. The class that is inherited from is called the **superclass**, and the class that inherits is called the **subclass**.
 
-\`\`\`dart
+```dart
 class Vehicle {
   void startEngine() {
     print('Engine started');
@@ -143,7 +143,7 @@ void main() {
   myCar.startEngine(); // Method inherited from Vehicle
   myCar.drive();
 }
-\`\`\`
+```
 
 In this example, the `Car` class inherits the `startEngine` method from the `Vehicle` class and adds its own method, `drive`.
 
@@ -153,7 +153,7 @@ In this example, the `Car` class inherits the `startEngine` method from the `Veh
 
 **Polymorphism** allows objects of different types to be treated as instances of the same class through a common interface. This makes it possible to write more generic and flexible code.
 
-\`\`\`dart
+```dart
 class Animal {
   void sound() {
     print('Animal sound');
@@ -181,7 +181,7 @@ void main() {
   myDog.sound(); // Output: Bark
   myCat.sound(); // Output: Meow
 }
-\`\`\`
+```
 
 Here, both `Dog` and `Cat` override the `sound` method from the `Animal` class, providing their specific implementations. However, they can still be referred to by the `Animal` type, demonstrating polymorphism.
 
