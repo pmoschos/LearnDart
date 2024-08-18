@@ -103,7 +103,7 @@ Logical operators are used to combine two or more conditions and return a `bool`
 | Operator | Description           | Example          |
 |----------|-----------------------|------------------|
 | `&&`     | Logical AND           | `a && b`         |
-| `||`     | Logical OR            | `a || b`         |
+| `\|\|`     | Logical OR            | `a \|\| b`         |
 | `!`      | Logical NOT           | `!a`             |
 
 ### Example:
