@@ -1,5 +1,4 @@
-# Variables, DataTypes and Comments in Dart ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white)
-
+# Variables, DataTypes and Comments in Dart ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
 
 Dart is an optimized programming language for building mobile, desktop, server, and web applications. It is known for its strong type system and its ease of use. In this guide, we'll explore **variables** and **data types** in Dart—how to declare, initialize, and use them effectively.
 
