@@ -72,9 +72,9 @@ void main() {
 }
 ```
 
-## 3. 💡 String Methods Overview
+## 3. 🔧 String Methods
 
-Dart offers a variety of methods to work with strings. Below is a summary of common string methods along with a short explanation of what they do.
+Dart offers a variety of methods to work with strings.
 
 | Method              | Explanation                                                  |
 |---------------------|--------------------------------------------------------------|
@@ -96,12 +96,6 @@ Dart offers a variety of methods to work with strings. Below is a summary of com
 | `replaceFirst()`     | Replaces the first occurrence of a substring.                |
 | `lastIndexOf()`      | Finds the last occurrence of a substring.                    |
 | `compareTo()`        | Compares this string with another string lexicographically.  |
-
-Now, let's proceed to detailed examples of each method:
-
-## 3. 🔧 String Methods
-
-Dart strings come with a wide variety of built-in methods that allow you to manipulate and transform them. Below is a list of some common string methods with examples.
 
 ### 3.1 `toUpperCase()` / `toLowerCase()`
 Converts all characters in the string to uppercase or lowercase.
