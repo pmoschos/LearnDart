@@ -13,7 +13,7 @@ Functions in Dart are reusable blocks of code that perform a specific task. They
 2. [🔍 Types of Functions in Dart](#-2-types-of-functions-in-dart)
 3. [📦 Function Parameters in Dart](#-3-function-parameters-in-dart)
 4. [🌀 Anonymous Functions in Dart](#-4-anonymous-functions-in-dart)
-5. [➡️ Arrow Functions in Dart](#arrow-functions-in-dart)
+5. [➡️ Arrow Functions in Dart](#-5-arrow-functions-in-dart)
 6. [🔒 Scope in Dart](#-6-scope-in-dart)
 
 ---
