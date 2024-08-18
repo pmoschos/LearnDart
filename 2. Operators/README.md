@@ -125,7 +125,7 @@ Bitwise operators perform operations on the binary representations of integers.
 | Operator | Description          | Example          |
 |----------|----------------------|------------------|
 | `&`      | Bitwise AND          | `a & b`          |
-| `|`      | Bitwise OR           | `a | b`          |
+| `\|`      | Bitwise OR           | `a \| b`          |
 | `^`      | Bitwise XOR          | `a ^ b`          |
 | `~`      | Bitwise NOT          | `~a`             |
 | `<<`     | Left shift           | `a << b`         |
