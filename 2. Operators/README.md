@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" alt="Dart Badge" width="200"/>
+</p>
 
-# Operators in Dart ![Dart Logo](https://dart.dev/assets/shared/dart-logo-for-shares.png)
+# Operators in Dart
 
 Dart is a modern, versatile programming language that offers a rich set of operators to handle various tasks such as arithmetic operations, comparisons, and logical evaluations. In this guide, we will explore operators in Dart, ranging from basic to advanced, with examples to help you and your students understand their functionality.
 
