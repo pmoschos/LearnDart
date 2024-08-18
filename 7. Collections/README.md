@@ -9,10 +9,10 @@ Collections in Dart are versatile data structures that allow you to store and ma
 
 ## 📑 Table of Contents
 
-1. [📋 List in Dart](#list-in-dart)
-2. [📜 Set in Dart](#set-in-dart)
-3. [🗺️ Map in Dart](#map-in-dart)
-4. [🔍 Where Method in Dart](#where-method-in-dart)
+1. [📋 List in Dart](#-1-list-in-dart)
+2. [📜 Set in Dart](#-2-set-in-dart)
+3. [🗺️ Map in Dart](#-3-map-in-dart)
+4. [🔍 Where Method in Dart](#-4-where-method-in-dart)
 
 ---
 
