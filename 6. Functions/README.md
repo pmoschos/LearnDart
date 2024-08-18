@@ -9,12 +9,12 @@ Functions in Dart are reusable blocks of code that perform a specific task. They
 
 ## 📑 Table of Contents
 
-1. [🔧 What is a Function in Dart?](#function-in-dart)
-2. [🔍 Types of Functions in Dart](#types-of-function-in-dart)
-3. [📦 Function Parameters in Dart](#function-parameter-in-dart)
-4. [🌀 Anonymous Functions in Dart](#anonymous-function-in-dart)
-5. [➡️ Arrow Functions in Dart](#arrow-function-in-dart)
-6. [🔒 Scope in Dart](#scope-in-dart)
+1. [🔧 What is a Function in Dart?](#-1-what-is-a-function-in-dart)
+2. [🔍 Types of Functions in Dart](#-2-types-of-functions-in-dart)
+3. [📦 Function Parameters in Dart](#-3-function-parameters-in-dart)
+4. [🌀 Anonymous Functions in Dart](#-4-anonymous-functions-in-dart)
+5. [➡️ Arrow Functions in Dart](#-5-arrow-functions-in-dart)
+6. [🔒 Scope in Dart](#-6-scope-in-dart)
 
 ---
 
